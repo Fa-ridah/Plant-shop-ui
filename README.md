@@ -1,4 +1,4 @@
-# 🌿 Plant Shop – UI/UX Design Prototype
+# Plant Shop – UI/UX Design Prototype
 
 This project showcases a modern, responsive **Plant Shop app interface**, designed using **Figma**. The goal was to create a seamless and elegant shopping experience for plant lovers, with a focus on usability, clean visuals, and smooth navigation flow.
 
@@ -16,7 +16,7 @@ The design solves key user needs:
 
 ---
 
-## 🧠 Design Objectives
+## Design Objectives
 
 - 🎯 Simplicity and clarity in layout
 - 🌱 Nature-themed color palette and typography
@@ -25,27 +25,15 @@ The design solves key user needs:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Figma** – UI design, prototyping, interaction flows
-- **Miro** *(used in early planning – optional)*
-- **Canva** *(optional for presentation graphics)*
+- **Miro** *(used in early planning)*
+  
 
 ---
 
-## 📷 Screenshots
-
-*You can add screenshots of key screens here (Homepage, Product Details, Cart)*
-
-```
-📍 Example:
-![Home Screen](./images/plant-home.png)
-![Product Detail](./images/plant-product.png)
-```
-
----
-
-## ✨ What I Learned
+## What I Learned
 
 - Creating clean hierarchy through typography and spacing
 - Applying color psychology to enhance user emotion
@@ -54,7 +42,7 @@ The design solves key user needs:
 
 ---
 
-## 💼 About the Designer
+## About the Designer
 
 Hi, I’m **Faridah Ayelabegan** — a certified **UI/UX Designer** and **Product Management Professional** skilled in Figma, Webflow, and human-centered design. I’m passionate about turning ideas into intuitive digital experiences.
 
@@ -62,7 +50,7 @@ Hi, I’m **Faridah Ayelabegan** — a certified **UI/UX Designer** and **Produc
 
 ---
 
-## 📣 Let’s Connect
+## Let’s Connect
 
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/farida-ayelabegan-b45609339)
 - 🛠️ [More projects coming soon on GitHub...]
