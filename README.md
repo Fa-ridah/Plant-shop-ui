@@ -2,11 +2,11 @@
 
 This project showcases a modern, responsive **Plant Shop app interface**, designed using **Figma**. The goal was to create a seamless and elegant shopping experience for plant lovers, with a focus on usability, clean visuals, and smooth navigation flow.
 
-🔗 [👉 View the Figma Prototype](https://www.figma.com/proto/qKodUMgE61bn0c9WZzheyv/Plant-shop?node-id=2-4&starting-point-node-id=2%3A4&t=m06xUlI4fI0PEtBI-1)
+🔗 [👉 View the Figma Prototype](https://www.figma.com/design/qKodUMgE61bn0c9WZzheyv/Plant-shop?node-id=0-1&t=D9oKaQbuYMFTozGE-1)
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The design solves key user needs:
 - A clean, engaging homepage that draws users into the plant collection
