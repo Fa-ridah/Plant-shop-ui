@@ -54,3 +54,8 @@ Hi, I’m **Faridah Ayelabegan** — a certified **UI/UX Designer** and **Produc
 
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/farida-ayelabegan-b45609339)
 - 🛠️ [More projects coming soon on GitHub...]
+
+##  Design Credit
+
+© 2025 Ayelabegan Fareedah  
+Unauthorized use without credit is prohibited.
